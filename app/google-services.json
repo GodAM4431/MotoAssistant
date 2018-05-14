@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "500510088418",
+    "firebase_url": "https://motoassistant-9f69b.firebaseio.com",
+    "project_id": "motoassistant-9f69b",
+    "storage_bucket": "motoassistant-9f69b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500510088418:android:3b14abd827980a5d",
+        "android_client_info": {
+          "package_name": "com.petyachoeva.motoassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500510088418-erlbilvbl4mmllrq63924051k8t02ghj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.petyachoeva.motoassistant",
+            "certificate_hash": "86bc463e659471a49a9779cda0ee025c1414abae"
+          }
+        },
+        {
+          "client_id": "500510088418-n4sukic5hqq6tbc8lb38pocjekiomof3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSj5Vte5I5s3b_WhvfykHPo53s4mCQKmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500510088418-n4sukic5hqq6tbc8lb38pocjekiomof3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
